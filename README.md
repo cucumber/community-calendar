@@ -2,5 +2,5 @@
 
 Public calendar for community calls and events
 
-Subscribe at:  
+The ICal feed can be subscribed to here:  
 <https://cucumber.github.io/community-calendar/calendar.ics>
