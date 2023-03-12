@@ -7,6 +7,7 @@ DTSTAMP:20230312T085331Z
 UID:5a912a2f-81c0-410d-b769-2b0642b43aa1
 DTSTART:20230316T150000Z
 DTEND:20230316T154500Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH
 SUMMARY:Cucumber Community Call
 URL:https://docs.google.com/document/d/1NbJDkGs4IgDUHDSA8W6WollVL0rnHDCMUxGPrzPPyiI
 DESCRIPTION:The purpose of this meeting is to connect core members of the Cucumber community together by sharing what we’ve been working on\, what we’re struggling with\, and offering help to each other.\n\nIt’s a space to raise issues that have significant\, broad or\, strategic impact. When there is a clear consensus\, we will make important decisions quickly but we avoid getting drawn into deep discussions of any particular topic\, preferring to move those discussions to written\, asynchronous communication.\n\nWe build the agenda collaboratively\, and take notes of decisions and actions\, in the Google document.
